@@ -28,3 +28,7 @@ while choice != 4:
         case 4:
             print("Goodbye!")
             break
+
+"""
+well done! you should add error handling when the user accidentally inputs the wrong datatype though! :D
+"""
